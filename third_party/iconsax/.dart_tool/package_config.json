@@ -1,0 +1,16 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "iconsax",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    }
+  ],
+  "generator": "pub",
+  "generatorVersion": "3.10.1",
+  "flutterRoot": "file:///Users/mac/development/flutter",
+  "flutterVersion": "3.38.3",
+  "pubCache": "file:///Users/mac/.pub-cache"
+}
